@@ -24,7 +24,7 @@ To install and run React Quiz App, follow these steps:
 To use this Quiz App, simply select a category to start the quiz. Each quiz consists of multiple-choice questions, with four possible answers to choose from. Users can select their answer and move on to the next question until they have completed the quiz. Once finished, users can view their score and see how well they did on each individual question.
 
 Support
-If you experience any issues with this Quiz App or have any suggestions for improving the app, please contact our support team on twitter [@Akorede](https://twitter.com/SaheedAkorede7).
+If you experience any issues with this Quiz App or have any suggestions for improving the app, please contact me  on twitter [@Akorede](https://twitter.com/SaheedAkorede7).
 
 Contributing
 If you would like to contribute to React Quiz App, please submit a pull request on our GitHub page. I welcome all contributions, including bug fixes, and feature requests.
